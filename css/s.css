@@ -1,0 +1,86 @@
+  body{
+            background-image: url(http://qianmos.top:9999/image/98.jpg);
+            background-size:cover;
+           background-repeat:no-repeat;
+      }
+.mab{
+    color: #000000;
+       position:absolute;
+       left:130px;
+       top:900px;
+       }
+      #maf{
+       position:absolute;
+       left:700px;
+       top:900px;
+       }
+a{
+  text-decoration:none;
+  color:#000000;
+}
+.ta{
+  font-size:50px;
+  width:580px;
+  height:700px;
+
+}
+.pa{
+    background: transparent; /*完全透明*/
+  width:590px;
+  height:60px;
+  font-size:50px;
+  border-radius:20px;
+    outline:none;
+    border-radius:20px;
+}
+.ma{
+    background: transparent; /*完全透明*/
+  width:590px;
+  height:60px;
+  font-size:50px;
+  border-radius:10px;
+    outline:none;
+    border-radius:15px;
+}
+.ba{
+  position:absolute;
+  left:210px;
+  top:500px;
+}
+.pp{
+  position:absolute;
+  left:210px;
+  top:570px;
+}
+.tp{
+  position:absolute;
+  left:190px;
+  top:290px;
+}
+#maa{
+  position:absolute;
+  left:850px;
+  top:0px;
+}
+.taa{
+    position:absolute;
+  left:450px;
+  top:1309px;
+}
+    .go{position:absolute;
+          width:500px;
+     height:50px;
+     left:200px;
+     top:650px;
+        background: transparent; /*完全透明*/
+       -webkit-border-radius:6px;/*适配以webkit为核心的浏览器(chrome、safari等)*/
+  -moz-border-radius:6px;/*适配firefox浏览器*/
+  -ms-border-radius:6px;/*适配IE浏览器*/
+  -o-border-radius:6px;/*适配opera浏览器*/
+  border-radius:6px;/*适配所有浏览器*/
+  border: 1px solid #C6C4C4;
+  outline: none;
+        border:none;
+
+
+     }
